@@ -1,1 +1,1 @@
-{"dependencies":{"react":"latest","timeout":"latest"}}
+{ "dependencies": { "react": "latest", "timeout": "latest", "jsonwebtoken": "^9.0.3" } }
