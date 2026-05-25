@@ -1,2 +1,3 @@
-# saas-backend
-FastAPI backend for a small SaaS product. Subscriptions via Stripe.
+# Initial release
+
+This is the first release of the project.
