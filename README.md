@@ -1,3 +1,3 @@
-# Initial release
+# Redis Update
 
-This is the first release of the project.
+Updated to latest version. See [release notes](https://github.com/redis/redis/releases) for details.
