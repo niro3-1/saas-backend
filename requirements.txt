@@ -1,1 +1,2 @@
-slowapi==1.15.0
+stripe==2.100.0
+other-dependency==1.0.0
