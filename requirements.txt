@@ -1,1 +1,1 @@
-slowapi==1.15.0
+slowapi==1.16.0
