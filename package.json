@@ -1,1 +1,1 @@
-{"dependencies": {"jsonwebtoken": "^9.0.1","react": "^19.3.0","timeout": "^3.0.0","zxcvbn": "^4.4.2","stripe": "^12.9.0"}}
+{"dependencies": {"jsonwebtoken": "^10.0.0","react": "^19.3.0","timeout": "^3.0.0","zxcvbn": "^4.4.2","stripe": "^12.9.0"}}
