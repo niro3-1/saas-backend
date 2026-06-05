@@ -1,0 +1,1 @@
+# Release v1.0.0\n\nThis is the first official release of the saas-backend project.\n\n## Features\n\n- Initial release with core functionality\n\n## Bug Fixes\n\n- No known issues\n\n## Known Issues\n\n- None\n\n## Contributors\n\n- niro3-1
