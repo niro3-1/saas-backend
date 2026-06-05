@@ -1,2 +1,2 @@
-stripe==2.101.0
+stripe==2.102.0
 other-dependency==1.0.0
