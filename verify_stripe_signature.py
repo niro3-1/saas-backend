@@ -1,0 +1,1 @@
+# Code to verify Stripe signature\n\ndef verify_signature(payload, sig_header, secret):\n    # Implementation here\n    pass
