@@ -1,0 +1,1 @@
+# Release v1.0.0\n\nThis release includes the following changes:\n\n- Feature 1\n- Feature 2\n- Bug fixes\n\nFor more details, see the [changelog](https://github.com/niro3-1/saas-backend/blob/main/CHANGELOG.md).
