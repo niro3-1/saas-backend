@@ -1,0 +1,1 @@
+# Changelog\n\n## [v1.0.0] - 2026-06-06\n\n### Added\n\n- Initial release\n\n### Changed\n\n- \n\n### Fixed\n\n- \n\n[v1.0.0]: https://github.com/niro3-1/saas-backend/compare/v0.9.0...v1.0.0
