@@ -1,0 +1,1 @@
+const emailRegex = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;\nexport default emailRegex;
